@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689233756371",
+    "project_id": "bazaar-ccd5b",
+    "storage_bucket": "bazaar-ccd5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689233756371:android:7a3a017dea4b7c84669426",
+        "android_client_info": {
+          "package_name": "com.example.capture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689233756371-ofer3vg53isteqjejphvl6hrbnn6mt1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XLxpsXdC0ricrL4xp0x3olb6cJa99zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689233756371-ofer3vg53isteqjejphvl6hrbnn6mt1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
