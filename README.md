@@ -15,6 +15,6 @@ A proper admin panel and APIs can be connected to the app.
 - Autochanging Carousel
 
 ### Improvements
-- Implementing search and search by category features
 - Adding payment gateways
+- Implementing search and search by category features 
 - Creating an admin panel(Different Project)
